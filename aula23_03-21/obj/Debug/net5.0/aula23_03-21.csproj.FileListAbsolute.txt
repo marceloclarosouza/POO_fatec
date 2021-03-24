@@ -1,0 +1,16 @@
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/bin/Debug/net5.0/aula23_03-21
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/bin/Debug/net5.0/aula23_03-21.deps.json
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/bin/Debug/net5.0/aula23_03-21.runtimeconfig.json
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/bin/Debug/net5.0/aula23_03-21.runtimeconfig.dev.json
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/bin/Debug/net5.0/aula23_03-21.dll
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/bin/Debug/net5.0/ref/aula23_03-21.dll
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/bin/Debug/net5.0/aula23_03-21.pdb
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/aula23_03-21.csprojAssemblyReference.cache
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/aula23_03-21.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/aula23_03-21.AssemblyInfoInputs.cache
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/aula23_03-21.AssemblyInfo.cs
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/aula23_03-21.csproj.CoreCompileInputs.cache
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/aula23_03-21.dll
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/ref/aula23_03-21.dll
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/aula23_03-21.pdb
+/home/marcelo/Documentos/POO/POO_fatec/aula23_03-21/obj/Debug/net5.0/aula23_03-21.genruntimeconfig.cache
