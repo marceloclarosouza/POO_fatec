@@ -101,7 +101,7 @@ namespace aula30_03_21
             {
                 Aluno o_Aluno1 = new Aluno();
 
-                o_Aluno1.Nome = "Nota p1 inválida";
+                o_Aluno1.Nome = "Marcelo";
                 o_Aluno1.Codigo = 134654549;
                 o_Aluno1.P1 = 2.5f;
                 o_Aluno1.P2 = 7.4f;
