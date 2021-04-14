@@ -5,6 +5,14 @@ namespace aula_metodos.classes
         public int codProduto;
         public string descricao;
         public float preco;
+        public int qtdeEstoque;
+
+         public Produto()
+        {
+            qtdeEstoque = 10;
+            System.Console.WriteLine("Qtde do produto em estoque: "+qtdeEstoque);
+
+        }
 
         public int CodProduto{
             get{return codProduto;}
@@ -18,8 +26,13 @@ namespace aula_metodos.classes
             get{return preco;}
             set{preco = value;}
         }
+         public int QtdeEstoque{
+            get{return qtdeEstoque;}
+            set{qtdeEstoque = value;}
+        }
 
 
+        
         // Metodo Aumentar Preco Livro
 
         public void aumentarPreco(float porcentagem)
@@ -40,7 +53,22 @@ namespace aula_metodos.classes
 
             return imposto;
         }
-        public void imprimirDados()
+       
+
+       
+        public void vendaProduto(int qtdeEstoque)
+        {
+            this.qtdeEstoque -= qtdeEstoque;
+        }
+
+        ~Produto()
+        {
+            if (qtdeEstoque < 5){
+                System.Console.WriteLine("Qtde do produto abaixo do limite");
+            }
+        }
+
+         public void imprimirDados()
         {
             System.Console.WriteLine("Código Produto: " + codProduto);
             System.Console.WriteLine("Descrição: " + descricao);

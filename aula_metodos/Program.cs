@@ -43,6 +43,8 @@ namespace aula_metodos
             Console.WriteLine("Novo Preço: " + o_Prod1.Preco.ToString("N2"));
             Console.WriteLine("Imposto: " + vlrImposto.ToString("N2"));
 
+            o_Prod1.vendaProduto(6);
+            o_Prod1.imprimirDados();
 
         }
     }
