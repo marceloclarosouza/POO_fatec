@@ -1,0 +1,16 @@
+/home/marcelo/Documentos/POO/POO_fatec/prova1/bin/Debug/net5.0/prova1
+/home/marcelo/Documentos/POO/POO_fatec/prova1/bin/Debug/net5.0/prova1.deps.json
+/home/marcelo/Documentos/POO/POO_fatec/prova1/bin/Debug/net5.0/prova1.runtimeconfig.json
+/home/marcelo/Documentos/POO/POO_fatec/prova1/bin/Debug/net5.0/prova1.runtimeconfig.dev.json
+/home/marcelo/Documentos/POO/POO_fatec/prova1/bin/Debug/net5.0/prova1.dll
+/home/marcelo/Documentos/POO/POO_fatec/prova1/bin/Debug/net5.0/ref/prova1.dll
+/home/marcelo/Documentos/POO/POO_fatec/prova1/bin/Debug/net5.0/prova1.pdb
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/prova1.csprojAssemblyReference.cache
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/prova1.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/prova1.AssemblyInfoInputs.cache
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/prova1.AssemblyInfo.cs
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/prova1.csproj.CoreCompileInputs.cache
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/prova1.dll
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/ref/prova1.dll
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/prova1.pdb
+/home/marcelo/Documentos/POO/POO_fatec/prova1/obj/Debug/net5.0/prova1.genruntimeconfig.cache
